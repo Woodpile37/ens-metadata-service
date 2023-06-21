@@ -24,7 +24,7 @@
     "google-auth-library": "^7.11.0",
     "graphql": "^15.5.0",
     "graphql-request": "^3.4.0",
-    "is-svg": "^4.3.2",
+    "is-svg": "^4.4.0",
     "jsdom": "^19.0.0",
     "lodash": "^4.17.21",
     "multiformats": "^9.4.8",
